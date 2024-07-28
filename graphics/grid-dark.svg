@@ -1,0 +1,267 @@
+<svg viewBox='0 0 2000 1400' xmlns='http://www.w3.org/2000/svg'>
+    <mask id='b' x='0' y='0' width='2000' height='1400'>
+        <path fill='url(#a)' d='M0 0h2000v1400H0z'/>
+    </mask>
+    <path fill='#000' d='M0 0h2000v1400H0z'/>
+    <g style='transform-origin:center center' stroke='#22355242' stroke-width='2' mask='url(#b)'>
+        <path fill='none' d='M0 0h80v80H0zM80 0h80v80H80zM160 0h80v80h-80z'/>
+        <path fill='#22355230' d='M240 0h80v80h-80z'/>
+        <path fill='none' d='M320 0h80v80h-80zM400 0h80v80h-80zM480 0h80v80h-80zM560 0h80v80h-80zM640 0h80v80h-80zM720 0h80v80h-80zM800 0h80v80h-80z'/>
+        <path fill='#2235523a' d='M880 0h80v80h-80z'/>
+        <path fill='none' d='M960 0h80v80h-80zM1040 0h80v80h-80z'/>
+        <path fill='#22355238' d='M1120 0h80v80h-80z'/>
+        <path fill='none' d='M1200 0h80v80h-80z'/>
+        <path fill='#22355217' d='M1280 0h80v80h-80z'/>
+        <path fill='none' d='M1360 0h80v80h-80zM1440 0h80v80h-80zM1520 0h80v80h-80zM1600 0h80v80h-80zM1680 0h80v80h-80zM1760 0h80v80h-80zM1840 0h80v80h-80zM1920 0h80v80h-80z'/>
+        <path fill='#2235521e' d='M0 80h80v80H0z'/>
+        <path fill='none' d='M80 80h80v80H80zM160 80h80v80h-80z'/>
+        <path fill='#22355240' d='M240 80h80v80h-80z'/>
+        <path fill='none' d='M320 80h80v80h-80z'/>
+        <path fill='#22355211' d='M400 80h80v80h-80z'/>
+        <path fill='none' d='M480 80h80v80h-80z'/>
+        <path fill='#22355209' d='M560 80h80v80h-80z'/>
+        <path fill='none' d='M640 80h80v80h-80zM720 80h80v80h-80z'/>
+        <path fill='#2235522d' d='M800 80h80v80h-80z'/>
+        <path fill='none' d='M880 80h80v80h-80z'/>
+        <path fill='#22355218' d='M960 80h80v80h-80z'/>
+        <path fill='none' d='M1040 80h80v80h-80zM1120 80h80v80h-80zM1200 80h80v80h-80zM1280 80h80v80h-80z'/>
+        <path fill='#22355210' d='M1360 80h80v80h-80z'/>
+        <path fill='none' d='M1440 80h80v80h-80zM1520 80h80v80h-80zM1600 80h80v80h-80zM1680 80h80v80h-80zM1760 80h80v80h-80zM1840 80h80v80h-80zM1920 80h80v80h-80zM0 160h80v80H0zM80 160h80v80H80zM160 160h80v80h-80zM240 160h80v80h-80zM320 160h80v80h-80zM400 160h80v80h-80zM480 160h80v80h-80z'/>
+        <path fill='#22355227' d='M560 160h80v80h-80z'/>
+        <path fill='none' d='M640 160h80v80h-80zM720 160h80v80h-80zM800 160h80v80h-80z'/>
+        <path fill='#22355221' d='M880 160h80v80h-80z'/>
+        <path fill='none' d='M960 160h80v80h-80zM1040 160h80v80h-80zM1120 160h80v80h-80z'/>
+        <path fill='#22355233' d='M1200 160h80v80h-80z'/>
+        <path fill='none' d='M1280 160h80v80h-80zM1360 160h80v80h-80z'/>
+        <path fill='#22355242' d='M1440 160h80v80h-80z'/>
+        <path fill='#22355201' d='M1520 160h80v80h-80z'/>
+        <path fill='none' d='M1600 160h80v80h-80zM1680 160h80v80h-80zM1760 160h80v80h-80zM1840 160h80v80h-80z'/>
+        <path fill='#22355205' d='M1920 160h80v80h-80z'/>
+        <path fill='none' d='M0 240h80v80H0zM80 240h80v80H80zM160 240h80v80h-80z'/>
+        <path fill='#2235521e' d='M240 240h80v80h-80z'/>
+        <path fill='none' d='M320 240h80v80h-80zM400 240h80v80h-80z'/>
+        <path fill='#2235521a' d='M480 240h80v80h-80z'/>
+        <path fill='none' d='M560 240h80v80h-80z'/>
+        <path fill='#22355224' d='M640 240h80v80h-80z'/>
+        <path fill='none' d='M720 240h80v80h-80zM800 240h80v80h-80zM880 240h80v80h-80z'/>
+        <path fill='#2235521c' d='M960 240h80v80h-80z'/>
+        <path fill='none' d='M1040 240h80v80h-80zM1120 240h80v80h-80z'/>
+        <path fill='#2235522d' d='M1200 240h80v80h-80z'/>
+        <path fill='none' d='M1280 240h80v80h-80z'/>
+        <path fill='#2235521b' d='M1360 240h80v80h-80z'/>
+        <path fill='#2235523b' d='M1440 240h80v80h-80z'/>
+        <path fill='none' d='M1520 240h80v80h-80z'/>
+        <path fill='#2235521c' d='M1600 240h80v80h-80z'/>
+        <path fill='none' d='M1680 240h80v80h-80z'/>
+        <path fill='#22355215' d='M1760 240h80v80h-80z'/>
+        <path fill='#22355238' d='M1840 240h80v80h-80z'/>
+        <path fill='#22355201' d='M1920 240h80v80h-80z'/>
+        <path fill='none' d='M0 320h80v80H0zM80 320h80v80H80zM160 320h80v80h-80zM240 320h80v80h-80zM320 320h80v80h-80zM400 320h80v80h-80zM480 320h80v80h-80z'/>
+        <path fill='#22355233' d='M560 320h80v80h-80z'/>
+        <path fill='#22355229' d='M640 320h80v80h-80z'/>
+        <path fill='none' d='M720 320h80v80h-80zM800 320h80v80h-80zM880 320h80v80h-80z'/>
+        <path fill='#22355217' d='M960 320h80v80h-80z'/>
+        <path fill='none' d='M1040 320h80v80h-80zM1120 320h80v80h-80zM1200 320h80v80h-80z'/>
+        <path fill='#22355208' d='M1280 320h80v80h-80z'/>
+        <path fill='none' d='M1360 320h80v80h-80z'/>
+        <path fill='#22355224' d='M1440 320h80v80h-80z'/>
+        <path fill='#2235522a' d='M1520 320h80v80h-80z'/>
+        <path fill='none' d='M1600 320h80v80h-80zM1680 320h80v80h-80zM1760 320h80v80h-80zM1840 320h80v80h-80z'/>
+        <path fill='#22355234' d='M1920 320h80v80h-80zM0 400h80v80H0z'/>
+        <path fill='none' d='M80 400h80v80H80zM160 400h80v80h-80z'/>
+        <path fill='#22355236' d='M240 400h80v80h-80z'/>
+        <path fill='none' d='M320 400h80v80h-80z'/>
+        <path fill='#22355204' d='M400 400h80v80h-80z'/>
+        <path fill='none' d='M480 400h80v80h-80z'/>
+        <path fill='#22355236' d='M560 400h80v80h-80z'/>
+        <path fill='none' d='M640 400h80v80h-80zM720 400h80v80h-80z'/>
+        <path fill='#22355205' d='M800 400h80v80h-80z'/>
+        <path fill='none' d='M880 400h80v80h-80zM960 400h80v80h-80zM1040 400h80v80h-80z'/>
+        <path fill='#22355213' d='M1120 400h80v80h-80z'/>
+        <path fill='none' d='M1200 400h80v80h-80z'/>
+        <path fill='#2235520f' d='M1280 400h80v80h-80z'/>
+        <path fill='none' d='M1360 400h80v80h-80zM1440 400h80v80h-80zM1520 400h80v80h-80z'/>
+        <path fill='#2235523c' d='M1600 400h80v80h-80z'/>
+        <path fill='none' d='M1680 400h80v80h-80zM1760 400h80v80h-80zM1840 400h80v80h-80z'/>
+        <path fill='#22355240' d='M1920 400h80v80h-80z'/>
+        <path fill='#22355241' d='M0 480h80v80H0z'/>
+        <path fill='none' d='M80 480h80v80H80z'/>
+        <path fill='#2235520f' d='M160 480h80v80h-80z'/>
+        <path fill='none' d='M240 480h80v80h-80z'/>
+        <path fill='#22355204' d='M320 480h80v80h-80z'/>
+        <path fill='none' d='M400 480h80v80h-80zM480 480h80v80h-80zM560 480h80v80h-80z'/>
+        <path fill='#22355214' d='M640 480h80v80h-80z'/>
+        <path fill='none' d='M720 480h80v80h-80zM800 480h80v80h-80zM880 480h80v80h-80z'/>
+        <path fill='#22355206' d='M960 480h80v80h-80z'/>
+        <path fill='none' d='M1040 480h80v80h-80z'/>
+        <path fill='#22355229' d='M1120 480h80v80h-80z'/>
+        <path fill='none' d='M1200 480h80v80h-80zM1280 480h80v80h-80zM1360 480h80v80h-80zM1440 480h80v80h-80z'/>
+        <path fill='#2235521a' d='M1520 480h80v80h-80z'/>
+        <path fill='none' d='M1600 480h80v80h-80zM1680 480h80v80h-80zM1760 480h80v80h-80z'/>
+        <path fill='#22355210' d='M1840 480h80v80h-80z'/>
+        <path fill='none' d='M1920 480h80v80h-80z'/>
+        <path fill='#22355209' d='M0 560h80v80H0z'/>
+        <path fill='#22355221' d='M80 560h80v80H80z'/>
+        <path fill='#22355225' d='M160 560h80v80h-80z'/>
+        <path fill='#22355227' d='M240 560h80v80h-80z'/>
+        <path fill='#22355223' d='M320 560h80v80h-80z'/>
+        <path fill='none' d='M400 560h80v80h-80zM480 560h80v80h-80z'/>
+        <path fill='#22355226' d='M560 560h80v80h-80z'/>
+        <path fill='#22355204' d='M640 560h80v80h-80z'/>
+        <path fill='none' d='M720 560h80v80h-80z'/>
+        <path fill='#22355201' d='M800 560h80v80h-80z'/>
+        <path fill='none' d='M880 560h80v80h-80zM960 560h80v80h-80z'/>
+        <path fill='#2235523f' d='M1040 560h80v80h-80z'/>
+        <path fill='none' d='M1120 560h80v80h-80zM1200 560h80v80h-80z'/>
+        <path fill='#2235522d' d='M1280 560h80v80h-80z'/>
+        <path fill='none' d='M1360 560h80v80h-80z'/>
+        <path fill='#22355207' d='M1440 560h80v80h-80z'/>
+        <path fill='#2235523c' d='M1520 560h80v80h-80z'/>
+        <path fill='none' d='M1600 560h80v80h-80zM1680 560h80v80h-80z'/>
+        <path fill='#2235522c' d='M1760 560h80v80h-80z'/>
+        <path fill='#2235522a' d='M1840 560h80v80h-80z'/>
+        <path fill='none' d='M1920 560h80v80h-80zM0 640h80v80H0zM80 640h80v80H80zM160 640h80v80h-80zM240 640h80v80h-80zM320 640h80v80h-80z'/>
+        <path fill='#22355210' d='M400 640h80v80h-80z'/>
+        <path fill='none' d='M480 640h80v80h-80zM560 640h80v80h-80z'/>
+        <path fill='#22355217' d='M640 640h80v80h-80z'/>
+        <path fill='none' d='M720 640h80v80h-80zM800 640h80v80h-80z'/>
+        <path fill='#2235522b' d='M880 640h80v80h-80z'/>
+        <path fill='none' d='M960 640h80v80h-80zM1040 640h80v80h-80zM1120 640h80v80h-80z'/>
+        <path fill='#22355234' d='M1200 640h80v80h-80z'/>
+        <path fill='#22355201' d='M1280 640h80v80h-80z'/>
+        <path fill='none' d='M1360 640h80v80h-80zM1440 640h80v80h-80zM1520 640h80v80h-80z'/>
+        <path fill='#2235521d' d='M1600 640h80v80h-80z'/>
+        <path fill='none' d='M1680 640h80v80h-80zM1760 640h80v80h-80zM1840 640h80v80h-80z'/>
+        <path fill='#22355231' d='M1920 640h80v80h-80z'/>
+        <path fill='none' d='M0 720h80v80H0zM80 720h80v80H80z'/>
+        <path fill='#22355237' d='M160 720h80v80h-80z'/>
+        <path fill='none' d='M240 720h80v80h-80zM320 720h80v80h-80zM400 720h80v80h-80zM480 720h80v80h-80zM560 720h80v80h-80zM640 720h80v80h-80zM720 720h80v80h-80zM800 720h80v80h-80z'/>
+        <path fill='#2235520d' d='M880 720h80v80h-80z'/>
+        <path fill='#2235521e' d='M960 720h80v80h-80z'/>
+        <path fill='none' d='M1040 720h80v80h-80zM1120 720h80v80h-80z'/>
+        <path fill='#2235520c' d='M1200 720h80v80h-80z'/>
+        <path fill='none' d='M1280 720h80v80h-80zM1360 720h80v80h-80zM1440 720h80v80h-80z'/>
+        <path fill='#2235523f' d='M1520 720h80v80h-80z'/>
+        <path fill='none' d='M1600 720h80v80h-80z'/>
+        <path fill='#2235522d' d='M1680 720h80v80h-80z'/>
+        <path fill='none' d='M1760 720h80v80h-80zM1840 720h80v80h-80z'/>
+        <path fill='#22355226' d='M1920 720h80v80h-80z'/>
+        <path fill='#22355241' d='M0 800h80v80H0z'/>
+        <path fill='none' d='M80 800h80v80H80zM160 800h80v80h-80z'/>
+        <path fill='#22355211' d='M240 800h80v80h-80z'/>
+        <path fill='none' d='M320 800h80v80h-80zM400 800h80v80h-80zM480 800h80v80h-80z'/>
+        <path fill='#22355213' d='M560 800h80v80h-80z'/>
+        <path fill='none' d='M640 800h80v80h-80z'/>
+        <path fill='#2235522f' d='M720 800h80v80h-80z'/>
+        <path fill='none' d='M800 800h80v80h-80z'/>
+        <path fill='#22355229' d='M880 800h80v80h-80z'/>
+        <path fill='#22355208' d='M960 800h80v80h-80z'/>
+        <path fill='#22355210' d='M1040 800h80v80h-80z'/>
+        <path fill='none' d='M1120 800h80v80h-80zM1200 800h80v80h-80zM1280 800h80v80h-80zM1360 800h80v80h-80z'/>
+        <path fill='#22355234' d='M1440 800h80v80h-80z'/>
+        <path fill='none' d='M1520 800h80v80h-80zM1600 800h80v80h-80zM1680 800h80v80h-80zM1760 800h80v80h-80zM1840 800h80v80h-80z'/>
+        <path fill='#2235523e' d='M1920 800h80v80h-80z'/>
+        <path fill='none' d='M0 880h80v80H0z'/>
+        <path fill='#22355216' d='M80 880h80v80H80z'/>
+        <path fill='none' d='M160 880h80v80h-80zM240 880h80v80h-80zM320 880h80v80h-80z'/>
+        <path fill='#22355219' d='M400 880h80v80h-80z'/>
+        <path fill='#2235521e' d='M480 880h80v80h-80z'/>
+        <path fill='#2235522a' d='M560 880h80v80h-80z'/>
+        <path fill='#22355227' d='M640 880h80v80h-80z'/>
+        <path fill='none' d='M720 880h80v80h-80zM800 880h80v80h-80zM880 880h80v80h-80zM960 880h80v80h-80zM1040 880h80v80h-80z'/>
+        <path fill='#22355242' d='M1120 880h80v80h-80z'/>
+        <path fill='#2235520d' d='M1200 880h80v80h-80z'/>
+        <path fill='none' d='M1280 880h80v80h-80zM1360 880h80v80h-80z'/>
+        <path fill='#22355223' d='M1440 880h80v80h-80z'/>
+        <path fill='none' d='M1520 880h80v80h-80zM1600 880h80v80h-80z'/>
+        <path fill='#2235521c' d='M1680 880h80v80h-80z'/>
+        <path fill='none' d='M1760 880h80v80h-80zM1840 880h80v80h-80z'/>
+        <path fill='#22355205' d='M1920 880h80v80h-80z'/>
+        <path fill='none' d='M0 960h80v80H0zM80 960h80v80H80z'/>
+        <path fill='#2235520c' d='M160 960h80v80h-80z'/>
+        <path fill='#22355211' d='M240 960h80v80h-80z'/>
+        <path fill='none' d='M320 960h80v80h-80z'/>
+        <path fill='#22355225' d='M400 960h80v80h-80z'/>
+        <path fill='none' d='M480 960h80v80h-80zM560 960h80v80h-80zM640 960h80v80h-80z'/>
+        <path fill='#22355201' d='M720 960h80v80h-80z'/>
+        <path fill='none' d='M800 960h80v80h-80z'/>
+        <path fill='#22355208' d='M880 960h80v80h-80z'/>
+        <path fill='none' d='M960 960h80v80h-80z'/>
+        <path fill='#22355205' d='M1040 960h80v80h-80z'/>
+        <path fill='none' d='M1120 960h80v80h-80zM1200 960h80v80h-80zM1280 960h80v80h-80zM1360 960h80v80h-80z'/>
+        <path fill='#22355204' d='M1440 960h80v80h-80z'/>
+        <path fill='#22355220' d='M1520 960h80v80h-80z'/>
+        <path fill='none' d='M1600 960h80v80h-80zM1680 960h80v80h-80zM1760 960h80v80h-80z'/>
+        <path fill='#22355202' d='M1840 960h80v80h-80z'/>
+        <path fill='#22355231' d='M1920 960h80v80h-80z'/>
+        <path fill='none' d='M0 1040h80v80H0zM80 1040h80v80H80zM160 1040h80v80h-80zM240 1040h80v80h-80zM320 1040h80v80h-80zM400 1040h80v80h-80zM480 1040h80v80h-80z'/>
+        <path fill='#2235523e' d='M560 1040h80v80h-80z'/>
+        <path fill='#2235520a' d='M640 1040h80v80h-80z'/>
+        <path fill='none' d='M720 1040h80v80h-80zM800 1040h80v80h-80zM880 1040h80v80h-80zM960 1040h80v80h-80zM1040 1040h80v80h-80zM1120 1040h80v80h-80zM1200 1040h80v80h-80zM1280 1040h80v80h-80zM1360 1040h80v80h-80zM1440 1040h80v80h-80zM1520 1040h80v80h-80z'/>
+        <path fill='#22355238' d='M1600 1040h80v80h-80z'/>
+        <path fill='#2235522e' d='M1680 1040h80v80h-80z'/>
+        <path fill='none' d='M1760 1040h80v80h-80z'/>
+        <path fill='#2235520a' d='M1840 1040h80v80h-80z'/>
+        <path fill='#22355201' d='M1920 1040h80v80h-80z'/>
+        <path fill='none' d='M0 1120h80v80H0zM80 1120h80v80H80zM160 1120h80v80h-80zM240 1120h80v80h-80zM320 1120h80v80h-80zM400 1120h80v80h-80z'/>
+        <path fill='#2235522b' d='M480 1120h80v80h-80z'/>
+        <path fill='none' d='M560 1120h80v80h-80zM640 1120h80v80h-80zM720 1120h80v80h-80z'/>
+        <path fill='#22355235' d='M800 1120h80v80h-80z'/>
+        <path fill='none' d='M880 1120h80v80h-80zM960 1120h80v80h-80z'/>
+        <path fill='#2235521e' d='M1040 1120h80v80h-80z'/>
+        <path fill='none' d='M1120 1120h80v80h-80zM1200 1120h80v80h-80zM1280 1120h80v80h-80z'/>
+        <path fill='#22355200' d='M1360 1120h80v80h-80z'/>
+        <path fill='none' d='M1440 1120h80v80h-80zM1520 1120h80v80h-80z'/>
+        <path fill='#22355224' d='M1600 1120h80v80h-80z'/>
+        <path fill='none' d='M1680 1120h80v80h-80zM1760 1120h80v80h-80zM1840 1120h80v80h-80zM1920 1120h80v80h-80zM0 1200h80v80H0zM80 1200h80v80H80zM160 1200h80v80h-80z'/>
+        <path fill='#2235522b' d='M240 1200h80v80h-80z'/>
+        <path fill='none' d='M320 1200h80v80h-80zM400 1200h80v80h-80z'/>
+        <path fill='#2235523b' d='M480 1200h80v80h-80z'/>
+        <path fill='none' d='M560 1200h80v80h-80z'/>
+        <path fill='#22355233' d='M640 1200h80v80h-80z'/>
+        <path fill='#22355211' d='M720 1200h80v80h-80z'/>
+        <path fill='#2235523f' d='M800 1200h80v80h-80z'/>
+        <path fill='#22355202' d='M880 1200h80v80h-80z'/>
+        <path fill='none' d='M960 1200h80v80h-80zM1040 1200h80v80h-80zM1120 1200h80v80h-80z'/>
+        <path fill='#22355240' d='M1200 1200h80v80h-80z'/>
+        <path fill='none' d='M1280 1200h80v80h-80zM1360 1200h80v80h-80zM1440 1200h80v80h-80z'/>
+        <path fill='#2235520e' d='M1520 1200h80v80h-80z'/>
+        <path fill='#22355200' d='M1600 1200h80v80h-80z'/>
+        <path fill='#22355232' d='M1680 1200h80v80h-80z'/>
+        <path fill='none' d='M1760 1200h80v80h-80zM1840 1200h80v80h-80zM1920 1200h80v80h-80zM0 1280h80v80H0z'/>
+        <path fill='#22355209' d='M80 1280h80v80H80z'/>
+        <path fill='none' d='M160 1280h80v80h-80z'/>
+        <path fill='#22355213' d='M240 1280h80v80h-80z'/>
+        <path fill='none' d='M320 1280h80v80h-80zM400 1280h80v80h-80zM480 1280h80v80h-80z'/>
+        <path fill='#22355228' d='M560 1280h80v80h-80z'/>
+        <path fill='none' d='M640 1280h80v80h-80zM720 1280h80v80h-80zM800 1280h80v80h-80z'/>
+        <path fill='#2235521c' d='M880 1280h80v80h-80z'/>
+        <path fill='none' d='M960 1280h80v80h-80z'/>
+        <path fill='#22355204' d='M1040 1280h80v80h-80z'/>
+        <path fill='none' d='M1120 1280h80v80h-80zM1200 1280h80v80h-80z'/>
+        <path fill='#2235522a' d='M1280 1280h80v80h-80z'/>
+        <path fill='none' d='M1360 1280h80v80h-80zM1440 1280h80v80h-80z'/>
+        <path fill='#22355204' d='M1520 1280h80v80h-80z'/>
+        <path fill='none' d='M1600 1280h80v80h-80z'/>
+        <path fill='#2235523e' d='M1680 1280h80v80h-80z'/>
+        <path fill='#22355201' d='M1760 1280h80v80h-80z'/>
+        <path fill='#22355229' d='M1840 1280h80v80h-80z'/>
+        <path fill='none' d='M1920 1280h80v80h-80zM0 1360h80v80H0zM80 1360h80v80H80zM160 1360h80v80h-80z'/>
+        <path fill='#22355207' d='M240 1360h80v80h-80z'/>
+        <path fill='none' d='M320 1360h80v80h-80z'/>
+        <path fill='#22355212' d='M400 1360h80v80h-80z'/>
+        <path fill='none' d='M480 1360h80v80h-80z'/>
+        <path fill='#22355222' d='M560 1360h80v80h-80z'/>
+        <path fill='none' d='M640 1360h80v80h-80zM720 1360h80v80h-80zM800 1360h80v80h-80zM880 1360h80v80h-80z'/>
+        <path fill='#22355230' d='M960 1360h80v80h-80z'/>
+        <path fill='none' d='M1040 1360h80v80h-80zM1120 1360h80v80h-80z'/>
+        <path fill='#2235523a' d='M1200 1360h80v80h-80z'/>
+        <path fill='none' d='M1280 1360h80v80h-80zM1360 1360h80v80h-80zM1440 1360h80v80h-80zM1520 1360h80v80h-80zM1600 1360h80v80h-80zM1680 1360h80v80h-80zM1760 1360h80v80h-80zM1840 1360h80v80h-80zM1920 1360h80v80h-80z'/>
+    </g>
+    <defs>
+        <radialGradient id='a'>
+            <stop offset='0' stop-color='#fff'/>
+            <stop offset='1' stop-color='#fff' stop-opacity='0'/>
+        </radialGradient>
+    </defs>
+</svg>

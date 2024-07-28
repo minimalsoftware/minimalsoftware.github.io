@@ -1,0 +1,186 @@
+@media only screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        align-items: start;
+        height: auto;
+        top: 20px;
+        margin: 0 20px;
+        padding: 10px 16px;
+    }
+
+    .logo__title {
+        display: none;
+    }
+
+    .logo__product {
+        font-size: 14px;
+    }
+
+    .logo__divider {
+        display: none;
+    }
+
+    .nav__item--main-btn {
+        font-size: 12px;
+        margin-left: 0;
+    }
+
+    .nav {
+        width: 100%;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+
+    .banner {
+        height: auto;
+        padding: 40px 20px 20px 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .banner__section {
+        height: auto;
+    }
+
+    .banner__title {
+        font-size: 35px;
+    }
+
+    .banner__subtitle {
+        font-size: 15px;
+    }
+
+    .banner__btn {
+        font-size: 12px;
+        padding: 8px 12px 8px 14px;
+    }
+
+    .banner__btn .store-icon {
+        margin-right: 10px;
+    }
+
+    .banner__mockup-section {
+        margin-top: 25px;
+        height: auto;
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .content__title {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .content__info {
+        font-size: 15px;
+        line-height: 20px;
+        margin: 20px 0;
+    }
+
+    .features {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .feature {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 20px 15px;
+        width: 100%;
+        column-gap: 20px;
+        max-width: calc(100vw - 40px);
+    }
+
+    .feature__section {
+        margin-right: 0;
+    }
+
+    .feature__title {
+        font-size: 20px;
+    }
+
+    .feature__description {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .feature__image {
+        width: 100%;
+        height: auto;
+    }
+
+    .pricing__title {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+
+    .pricing__subtitle {
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    .pricing__plans {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+
+    .pricing-plan__header {
+        padding: 15px;
+    }
+
+    .pricing-plan__section {
+        padding: 15px;
+    }
+
+    .pricing-plan__price {
+        font-size: 25px;
+    }
+
+    .pricing-plan__price span {
+        font-size: 18px;
+    }
+
+    .pricing-plan__button {
+        margin: 15px 0 15px 0;
+    }
+
+    .pricing-plan__button {
+        font-size: 13px;
+    }
+
+    .pricing-plan-features__item p {
+        font-size: 13px;
+    }
+
+    footer {
+        padding: 20px;
+    }
+
+    .footer-about__title {
+        font-size: 14px;
+    }
+
+    .footer-links {
+        margin-left: 0;
+    }
+
+    .footer__section {
+        flex-direction: column;
+    }
+
+    .footer-links {
+        flex-direction: column;
+    }
+
+    .footer-links-group {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .footer__copyright {
+        margin-top: 20px;
+    }
+}
