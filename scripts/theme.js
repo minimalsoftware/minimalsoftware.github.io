@@ -30,8 +30,8 @@ window.addEventListener("DOMContentLoaded", () => {
             }
             
             document.querySelector(".logo__icon img").src = "graphics/minimal-software-logo--dark.png";
-            document.querySelector(".banner").style.backgroundImage = 'url("../graphics/grid-dark.svg")';
-            document.querySelector(".banner__mockup-section img").src = "graphics/android-mockup--dark.png"
+            document.querySelector(".banner").style.backgroundImage = 'url("../graphics/weather_by_minimal_software/grid-dark.svg")';
+            document.querySelector(".banner__mockup-section img").src = "graphics/weather_by_minimal_software/android-mockup--dark.png"
             
             const pricingPlansFeaturesIconsCheck = document.querySelectorAll(".icon--check");
             for (let i = 0; i < pricingPlansFeaturesIconsCheck.length; i++) {
@@ -56,8 +56,8 @@ window.addEventListener("DOMContentLoaded", () => {
             }
             
             document.querySelector(".logo__icon img").src = "graphics/minimal-software-logo.png";
-            document.querySelector(".banner").style.backgroundImage = 'url("../graphics/grid-light.svg")';
-            document.querySelector(".banner__mockup-section img").src = "graphics/android-mockup.png"
+            document.querySelector(".banner").style.backgroundImage = 'url("../graphics/weather_by_minimal_software/grid-light.svg")';
+            document.querySelector(".banner__mockup-section img").src = "graphics/weather_by_minimal_software/android-mockup.png"
 
             const pricingPlansFeaturesIconsCheck = document.querySelectorAll(".icon--check");
             for (let i = 0; i < pricingPlansFeaturesIconsCheck.length; i++) {

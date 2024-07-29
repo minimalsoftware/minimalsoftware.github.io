@@ -28,6 +28,10 @@ footer a {
     margin-right: 10px;
 }
 
+.footer-about__title {
+    font-weight: 400;
+}
+
 .footer-links {
     display: flex;
     margin-left: 100px;
@@ -42,6 +46,7 @@ footer a {
 .footer-links-group__title {
     color: #EEEEEE;
     margin-bottom: 20px;
+    font-weight: 400;
 }
 
 .footer-links-group__item {

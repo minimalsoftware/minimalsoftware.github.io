@@ -20,8 +20,6 @@
     --mainBorderColor: #EEEEEE;
 }
 
-
-
 button {
     cursor: pointer;
 }
@@ -82,10 +80,13 @@ header {
 
 .logo__title {
     font-weight: 500;
+    font-size: 1em;
 }
 
 .logo__product {
     color: var(--mainColor);
+    font-size: 1em;
+    font-weight: 400;
 }
 
 .nav {
@@ -245,7 +246,7 @@ header {
     background-size: cover;
     background-position: center center;
     background-repeat: repeat;
-    background-image: url("../graphics/grid-light.svg");
+    background-image: url("../graphics/weather_by_minimal_software/grid-light.svg");
 }
 
 .banner__section {
@@ -260,6 +261,7 @@ header {
     color: var(--mainColor);
     font-size: 80px;
     letter-spacing: 1px;
+    font-weight: 400;
 }
 
 .banner__title span {
@@ -271,6 +273,7 @@ header {
     margin: 20px 0;
     font-size: 25px;
     color: var(--secondTextColor);
+    font-weight: 400;
 }
 
 .banner__btn--main {
@@ -328,4 +331,5 @@ header {
     max-width: 1000px;
     font-size: 18px;
     line-height: 25px;
+    font-weight: 400;
 }

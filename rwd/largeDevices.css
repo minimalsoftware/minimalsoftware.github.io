@@ -1,0 +1,17 @@
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+     header {
+        margin: 0 150px;
+    }
+
+    .banner {
+        padding: 0 150px 50px;
+    }
+
+    .banner__title {
+        font-size: 65px;
+    }
+
+    .banner__subtitle {
+        font-size: 22px;
+    }
+}

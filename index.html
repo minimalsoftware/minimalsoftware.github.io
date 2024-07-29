@@ -4,16 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Forecast for seven days wrapped in a minimalist design, air quality index.">
 
     <title>Weather by Minimal Software</title>
-    <link rel="icon" type="image/x-icon" href="graphics/minimal-software-logo.png">
+    <link rel="icon" type="image/x-icon" href="graphics/favicons/favicon.svg">
+    <link rel="apple-touch-icon" href="graphics/favicons/apple-touch-icon.png">
 
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/pricing.css">
     <link rel="stylesheet" href="styles/footer.css">
     <link rel="stylesheet" href="styles/features.css">
 
-    <link rel="stylesheet" href="rwd/extraSmallDevices.css ">
+    <link rel="stylesheet" href="rwd/extraSmallDevices.css">
+    <link rel="stylesheet" href="rwd/smallDevices.css">
+    <link rel="stylesheet" href="rwd/mediumDevices.css">
+    <link rel="stylesheet" href="rwd/largeDevices.css">
 
     <script src="scripts/header.js" defer></script>
     <script src="scripts/theme.js" defer></script>
@@ -28,9 +33,9 @@
             <div class="logo__icon">
                 <img src="graphics/minimal-software-logo.png" alt="Minimal Software Logo">
             </div>
-            <div class="logo__title">Minimal Software</div>
+            <h2 class="logo__title">Minimal Software</h2>
             <div class="logo__divider"></div>
-            <div class="logo__product"><a href="index.html">Weather by Minimal Software</a></div>
+            <h3 class="logo__product"><a href="index.html">Weather by Minimal Software</a></h3>
         </div>
         <div class="nav">
             <!--            <div class="nav__item"><a href="">What's new</a></div>-->
@@ -85,8 +90,8 @@
     <div class="main-section">
         <div class="banner">
             <div class="banner__section">
-                <div class="banner__title translation--weather_banner_title">Clear view of the Weather forecast</div>
-                <div class="banner__subtitle translation--weather_banner_subtitle">Forecast for 7 days wrapped in a minimalist design, and at the same time includes all the most important and constantly updated weather data.</div>
+                <h1 class="banner__title translation--weather_banner_title">Clear view of the Weather forecast</h1>
+                <h2 class="banner__subtitle translation--weather_banner_subtitle">Forecast for 7 days wrapped in a minimalist design, and at the same time includes all the most important and constantly updated weather data.</h2>
                 <a class="banner__btn--main" href="https://appgallery.huawei.com/app/C111242015">
                     <button class="banner__btn">
                         <img src="graphics/app-gallery.svg" alt="AppGallery" class="store-icon">
@@ -96,7 +101,7 @@
                 </a>
             </div>
             <div class="banner__mockup-section">
-                <img src="graphics/android-mockup.png" alt="Weather by Minimal Software Mockup" class="banner__image">
+                <img src="graphics/weather_by_minimal_software/android-mockup.png" alt="Weather by Minimal Software Mockup" class="banner__image">
             </div>
         </div>
     </div>
@@ -105,23 +110,23 @@
         <div class="features">
             <div class="feature" id="feature--1">
                 <div class="feature__section">
-                    <div class="feature__title translation--weather_feature_1_title">Detailed weather data</div>
-                    <div class="feature__description translation--weather_feature_1_description">Includes: current temperature, felt temperature, daily minimum and maximum temperature, weather conditions, chance of precipitation, cloud cover, pressure, humidity, UV index, visibility and dew point.</div>
+                    <h3 class="feature__title translation--weather_feature_1_title">Detailed weather data</h3>
+                    <p class="feature__description translation--weather_feature_1_description">Includes: current temperature, felt temperature, daily minimum and maximum temperature, weather conditions, chance of precipitation, cloud cover, pressure, humidity, UV index, visibility and dew point.</p>
                 </div>
-                <img src="graphics/feature-1.png" alt="Feature nr. 1" class="feature__image">
+                <img src="graphics/weather_by_minimal_software/feature-1.png" alt="Feature nr. 1" class="feature__image">
             </div>
 
             <div class="feature" id="feature--2">
                 <div class="feature__section">
-                    <div class="feature__title translation--weather_feature_2_title">Favorite locations</div>
-                    <div class="feature__description translation--weather_feature_2_description">Enter your location manually in the search bar or use the GPS feature to automatically locate your current position.</div>
+                    <h3 class="feature__title translation--weather_feature_2_title">Favorite locations</h3>
+                    <p class="feature__description translation--weather_feature_2_description">Enter your location manually in the search bar or use the GPS feature to automatically locate your current position.</p>
                 </div>
-                <img src="graphics/feature-2.png" alt="Feature nr. 2" class="feature__image">
+                <img src="graphics/weather_by_minimal_software/feature-2.png" alt="Feature nr. 2" class="feature__image">
             </div>
 
             <div class="feature" id="feature--3">
                 <div class="feature__section">
-                    <div class="feature__title translation--weather_feature_3_title">Even more information</div>
+                    <h3 class="feature__title translation--weather_feature_3_title">Even more information</h3>
                     <div class="feature__description translation--weather_feature_3_description">
                         <ul>
                             <li>Air quality index (AQI), description of air condition and results of automatic measurements of air pollution indices PM10, PM2.5, O3, NO2, SO2.</li>
@@ -130,12 +135,12 @@
                         </ul>
                     </div>
                 </div>
-                <img src="graphics/feature-3.png" alt="Feature nr. 3" class="feature__image">
+                <img src="graphics/weather_by_minimal_software/feature-3.png" alt="Feature nr. 3" class="feature__image">
             </div>
 
             <div class="feature" id="feature--4">
                 <div class="feature__section">
-                    <div class="feature__title translation--weather_feature_4_title">Customization</div>
+                    <h3 class="feature__title translation--weather_feature_4_title">Customization</h3>
                     <div class="feature__description translation--weather_feature_4_description">
                         <ul>
                             <li>Choose between light and dark mode or let it follow your system theme.</li>
@@ -143,28 +148,28 @@
                         </ul>
                     </div>
                 </div>
-                <img src="graphics/feature-4.png" alt="Feature nr. 4" class="feature__image">
+                <img src="graphics/weather_by_minimal_software/feature-4.png" alt="Feature nr. 4" class="feature__image">
             </div>
         </div>
 
-        <div class="content__info translation--weather_language_availability">Weather by Minimal Software is available in 18 languages: English, German, Polish, French, Spanish, Italian, Chinese (Simplified), Hindi, Arabic, Ukrainian, Japanese, Turkish, Portuguese, Korean, Swedish, Dutch, Greek and Bulgarian.</div>
+        <h4 class="content__info translation--weather_language_availability">Weather by Minimal Software is available in 18 languages: English, German, Polish, French, Spanish, Italian, Chinese (Simplified), Hindi, Arabic, Ukrainian, Japanese, Turkish, Portuguese, Korean, Swedish, Dutch, Greek and Bulgarian.</h4>
 
         <div class="pricing">
-            <div class="pricing__title translation--pricing_title">Pricing & Plans</div>
-            <div class="pricing__subtitle translation--pricing_subtitle">Try first, decide later. No subscription or hidden costs.</div>
+            <h2 class="pricing__title translation--pricing_title">Pricing & Plans</h2>
+            <h3 class="pricing__subtitle translation--pricing_subtitle">Try first, decide later. No subscription or hidden costs.</h3>
             <div class="pricing__plans">
                 <div class="pricing-plan">
                     <div class="pricing-plan__header">
                         <div class="pricing-plan__title">
                             <img src="graphics/google-icons/filter_1.svg" alt="Option nr. 1" class="icon--invert">
-                            <p>Lite</p>
+                            <p>Free</p>
                         </div>
-                        <div class="pricing-plan__subtitle translation--pricing_plan_1_description">Try the application without any cost!</div>
+                        <h4 class="pricing-plan__subtitle translation--pricing_plan_1_description">Try the application without any cost!</h4>
                     </div>
                     <div class="pricing-plan__section">
-                        <div class="pricing-plan__price"><span class="translation--free">Free</span><span class="duration translation--lifetime">Lifetime</span></div>
-                        <a href="https://appgallery.huawei.com/app/C111242015">
-                            <button class="pricing-plan__button translation--download_on_huawei_app_gallery">Download on HUAWEI AppGallery</button>
+                        <h3 class="pricing-plan__price"><span class="translation--free">Free</span><span class="duration translation--lifetime">Lifetime</span></h3>
+                        <a href="">
+                            <button class="pricing-plan__button translation--coming_soon">Coming soon</button>
                         </a>
                         <div class="pricing-plan-features">
                             <div class="pricing-plan-features__item">
@@ -193,10 +198,10 @@
                             <img src="graphics/google-icons/filter_2.svg" alt="Option nr. 2" class="icon--invert">
                             <p>Plus</p>
                         </div>
-                        <div class="pricing-plan__subtitle translation--pricing_plan_2_description">Experience the full potential with enhanced functionalities!</div>
+                        <h4 class="pricing-plan__subtitle translation--pricing_plan_2_description">Experience the full potential with enhanced functionalities!</h4>
                     </div>
                     <div class="pricing-plan__section">
-                        <div class="pricing-plan__price">2.1€<span class="duration translation--lifetime">Lifetime</span></div>
+                        <h3 class="pricing-plan__price">2.1€<span class="duration translation--lifetime">Lifetime</span></h3>
                         <a href="https://appgallery.huawei.com/app/C111242015">
                             <button class="pricing-plan__button translation--buy_on_huawei_app_gallery">Buy on HUAWEI AppGallery</button>
                         </a>
@@ -232,21 +237,21 @@
                     </div>
                     <div class="footer-logo__title">Minimal Software</div>
                 </div>
-                <div class="footer-about__title translation--about-company">Applications from Minimal Software offer all the most important functionalities wrapped in a minimalist design.</div>
+                <h4 class="footer-about__title translation--about-company">Applications from Minimal Software offer all the most important functionalities wrapped in a minimalist design.</h4>
             </div>
             <div class="footer-links">
                 <div class="footer-links-group">
                     <div class="footer-links-group__title translation--products">Products</div>
-                    <a class="footer-links-group__item" href="https://appgallery.huawei.com/app/C111242015">Weather by Minimal Software</a>
-                    <a class="footer-links-group__item" href="">Battery Alarm by Minimal Software</a>
+                    <a class="footer-links-group__item" href="https://appgallery.huawei.com/app/C111242015">Weather+ by Minimal Software</a>
+<!--                    <a class="footer-links-group__item" href="">Battery Alarm by Minimal Software</a>-->
                 </div>
-                <div class="footer-links-group">
-                    <div class="footer-links-group__title translation--company">Company</div>
-                    <a class="footer-links-group__item" href="">About</a>
-                </div>
+<!--                <div class="footer-links-group">-->
+<!--                    <div class="footer-links-group__title translation&#45;&#45;company">Company</div>-->
+<!--                    <a class="footer-links-group__item" href="">About</a>-->
+<!--                </div>-->
             </div>
         </div>
-        <div class="footer__copyright translation--copyright">Copyright © 2024 Minimal Software. All rights reserved.</div>
+        <p class="footer__copyright translation--copyright">Copyright © 2024 Minimal Software. All rights reserved.</p>
     </footer>
 </div>
 </body>

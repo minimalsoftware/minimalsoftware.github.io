@@ -45,6 +45,7 @@ const translations = {
         "pricing_plan_2_feature_2": "Hourly forecast for today and tomorrow",
         "pricing_plan_2_feature_3": "Unlimited favorite locations",
         "pricing_plan_2_feature_4": "Ad free experience",
+        "coming_soon": "Coming soon",
     },
     de: {
         "get_weather": "Weather abrufen",
@@ -92,6 +93,7 @@ const translations = {
         "pricing_plan_2_feature_2": "Stündliche Vorhersage für heute und morgen",
         "pricing_plan_2_feature_3": "Unbegrenzte Anzahl an Lieblingsorten",
         "pricing_plan_2_feature_4": "Werbefreies Erlebnis",
+        "coming_soon": "Demnächst",
     },
     pl: {
         "get_weather": "Pobierz Weather",
@@ -126,7 +128,7 @@ const translations = {
         "company": "Firma",
         "copyright": "Prawa autorskie © 2024 Minimal Software. Wszelkie prawa zastrzeżone.",
         "free": "Free",
-        "lifetime": "Lifetime",
+        "lifetime": "Na zawsze",
         "download_on_huawei_app_gallery": "Pobierz w HUAWEI AppGallery",
         "buy_on_huawei_app_gallery": "Kup w HUAWEI AppGallery",
         "pricing_plan_1_description": "Wypróbuj aplikację bez żadnych kosztów!",
@@ -139,6 +141,7 @@ const translations = {
         "pricing_plan_2_feature_2": "Prognoza godzinowa na dziś i jutro",
         "pricing_plan_2_feature_3": "Nieograniczone ulubione lokalizacje",
         "pricing_plan_2_feature_4": "Brak reklam",
+        "coming_soon": "Już wkrótce",
     },
     fr: {
         "get_weather": "Obtenir Weather",
@@ -186,6 +189,7 @@ const translations = {
         "pricing_plan_2_feature_2": "Prévisions horaires pour aujourd'hui et demain",
         "pricing_plan_2_feature_3": "Emplacements favoris illimités",
         "pricing_plan_2_feature_4": "Expérience sans publicité",
+        "coming_soon": "Bientôt disponible",
     },
     es: {
         "get_weather": "Obtener Weather",
@@ -232,7 +236,8 @@ const translations = {
         "pricing_plan_2_feature_1": "Pronóstico de 7 días",
         "pricing_plan_2_feature_2": "Pronóstico por hora para hoy y mañana",
         "pricing_plan_2_feature_3": "Ubicaciones favoritas ilimitadas",
-        "pricing_plan_2_feature_4": "Experiencia sin anuncios"
+        "pricing_plan_2_feature_4": "Experiencia sin anuncios",
+        "coming_soon": "Próximamente",
     },
     it: {
         "get_weather": "Ottieni Weather",
@@ -275,7 +280,8 @@ const translations = {
         "pricing_plan_1_feature_2": "Previsioni orarie per le prossime 12 ore",
         "pricing_plan_1_feature_3": "3 località preferite",
         "pricing_plan_1_feature_4": "Pubblicità",
-        "pricing_plan_2_description": "Scopri il pieno potenziale con funzionalità avanzate!"
+        "pricing_plan_2_description": "Scopri il pieno potenziale con funzionalità avanzate!",
+        "coming_soon": "Prossimamente",
     },
     zh: {
         "get_weather": "获取Weather",
@@ -322,7 +328,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7天预报",
         "pricing_plan_2_feature_2": "今天和明天的逐小时预报",
         "pricing_plan_2_feature_3": "无限收藏位置",
-        "pricing_plan_2_feature_4": "无广告体验"
+        "pricing_plan_2_feature_4": "无广告体验",
+        "coming_soon": "即将推出",
     },
     hi: {
         "get_weather": "Weather प्राप्त करें",
@@ -369,7 +376,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7 दिन का पूर्वानुमान",
         "pricing_plan_2_feature_2": "आज और कल के लिए प्रति घंटा पूर्वानुमान",
         "pricing_plan_2_feature_3": "असीमित पसंदीदा स्थान",
-        "pricing_plan_2_feature_4": "विज्ञापन-मुक्त अनुभव"
+        "pricing_plan_2_feature_4": "विज्ञापन-मुक्त अनुभव",
+        "coming_soon": "जल्द ही आ रहा है",
     },
     ar: {
         "get_weather": "احصل على Weather",
@@ -416,7 +424,8 @@ const translations = {
         "pricing_plan_2_feature_1": "توقعات لمدة 7 أيام",
         "pricing_plan_2_feature_2": "توقعات لكل ساعة لليوم وغدًا",
         "pricing_plan_2_feature_3": "مواقع مفضلة غير محدودة",
-        "pricing_plan_2_feature_4": "تجربة خالية من الإعلانات"
+        "pricing_plan_2_feature_4": "تجربة خالية من الإعلانات",
+        "coming_soon": "قريبا",
     },
     uk: {
         "get_weather": "Отримати Weather",
@@ -463,7 +472,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7-денний прогноз",
         "pricing_plan_2_feature_2": "Погодинний прогноз на сьогодні та завтра",
         "pricing_plan_2_feature_3": "Необмежена кількість улюблених місць",
-        "pricing_plan_2_feature_4": "Без реклами"
+        "pricing_plan_2_feature_4": "Без реклами",
+        "coming_soon": "Незабаром",
     },
     ja: {
         "get_weather": "Weather を取得する",
@@ -510,7 +520,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7日間の予報",
         "pricing_plan_2_feature_2": "今日と明日の毎時予報",
         "pricing_plan_2_feature_3": "無制限のお気に入りの場所",
-        "pricing_plan_2_feature_4": "広告なしの体験"
+        "pricing_plan_2_feature_4": "広告なしの体験",
+        "coming_soon": "まもなく公開",
     },
     tr: {
         "get_weather": "Weather Al",
@@ -557,7 +568,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7 günlük tahmin",
         "pricing_plan_2_feature_2": "Bugün ve yarın için saatlik tahmin",
         "pricing_plan_2_feature_3": "Sınırsız favori yerler",
-        "pricing_plan_2_feature_4": "Reklamsız deneyim"
+        "pricing_plan_2_feature_4": "Reklamsız deneyim",
+        "coming_soon": "Yakında geliyor",
     },
     pt: {
         "get_weather": "Obter Weather",
@@ -604,7 +616,8 @@ const translations = {
         "pricing_plan_2_feature_1": "Previsão de 7 dias",
         "pricing_plan_2_feature_2": "Previsão horária para hoje e amanhã",
         "pricing_plan_2_feature_3": "Locais favoritos ilimitados",
-        "pricing_plan_2_feature_4": "Experiência sem anúncios"
+        "pricing_plan_2_feature_4": "Experiência sem anúncios",
+        "coming_soon": "Em breve",
     },
     ko: {
         "get_weather": "Weather 받기",
@@ -651,7 +664,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7일 예보",
         "pricing_plan_2_feature_2": "오늘과 내일의 시간별 예보",
         "pricing_plan_2_feature_3": "무제한 즐겨찾기 위치",
-        "pricing_plan_2_feature_4": "광고 없는 경험"
+        "pricing_plan_2_feature_4": "광고 없는 경험",
+        "coming_soon": "곧 출시",
     },
     sv: {
         "get_weather": "Hämta Weather",
@@ -698,7 +712,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7-dagarsprognos",
         "pricing_plan_2_feature_2": "Timmarprognos för idag och imorgon",
         "pricing_plan_2_feature_3": "Obegränsat antal favoritplatser",
-        "pricing_plan_2_feature_4": "Ingen reklam"
+        "pricing_plan_2_feature_4": "Ingen reklam",
+        "coming_soon": "Kommer snart",
     },
     nl: {
         "get_weather": "Weather Ophalen",
@@ -745,7 +760,8 @@ const translations = {
         "pricing_plan_2_feature_1": "7-daagse voorspelling",
         "pricing_plan_2_feature_2": "Uurlijkse voorspelling voor vandaag en morgen",
         "pricing_plan_2_feature_3": "Onbeperkt aantal favoriete locaties",
-        "pricing_plan_2_feature_4": "Geen advertenties"
+        "pricing_plan_2_feature_4": "Geen advertenties",
+        "coming_soon": "Binnenkort beschikbaar",
     },
     el: {
         "get_weather": "Απόκτηση Weather",
@@ -792,7 +808,8 @@ const translations = {
         "pricing_plan_2_feature_1": "Πρόγνωση 7 ημερών",
         "pricing_plan_2_feature_2": "Ωριαία πρόγνωση για σήμερα και αύριο",
         "pricing_plan_2_feature_3": "Απεριόριστος αριθμός αγαπημένων τοποθεσιών",
-        "pricing_plan_2_feature_4": "Χωρίς διαφημίσεις"
+        "pricing_plan_2_feature_4": "Χωρίς διαφημίσεις",
+        "coming_soon": "Έρχεται σύντομα",
     },
     bg: {
         "get_weather": "Вземи Weather",
@@ -839,6 +856,7 @@ const translations = {
         "pricing_plan_2_feature_1": "Прогноза за 7 дни",
         "pricing_plan_2_feature_2": "Почасова прогноза за днес и утре",
         "pricing_plan_2_feature_3": "Неограничен брой любими места",
-        "pricing_plan_2_feature_4": "Без реклами"
+        "pricing_plan_2_feature_4": "Без реклами",
+        "coming_soon": "Скоро",
     }
 };

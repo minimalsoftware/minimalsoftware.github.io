@@ -1,28 +1,23 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (min-width: 600px) and (max-width: 768px) {
     header {
         flex-direction: column;
         align-items: start;
         height: auto;
         top: 20px;
-        margin: 0 20px;
+        margin: 0 25px;
         padding: 10px 16px;
     }
 
     .logo__title {
-        display: none;
-    }
-
-    .logo__product {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .logo__divider {
-        display: none;
+        margin: 0 10px;
     }
 
-    .nav__item--main-btn {
-        font-size: 12px;
-        margin-left: 0;
+    .logo__product {
+        font-size: 15px;
     }
 
     .nav {
@@ -44,11 +39,15 @@
     }
 
     .banner__title {
-        font-size: 35px;
+        font-size: 40px;
     }
 
     .banner__subtitle {
-        font-size: 15px;
+        font-size: 18px;
+    }
+
+    .banner__btn--main {
+        margin-top: 10px;
     }
 
     .banner__btn {
@@ -66,34 +65,34 @@
     }
 
     .content {
-        padding: 20px;
+        padding: 25px;
     }
 
     .content__title {
         font-size: 25px;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
     }
 
     .content__info {
         font-size: 15px;
         line-height: 20px;
-        margin: 20px 0;
+        margin: 25px 0;
     }
 
     .features {
+        row-gap: 20px;
         grid-template-columns: 1fr;
         justify-items: center;
-        row-gap: 20px;
     }
 
     .feature {
+        /*display: flex;*/
         display: grid;
         grid-template-columns: repeat(2, 1fr);
-        padding: 20px 15px;
         width: 100%;
         column-gap: 20px;
-        /*max-width: calc(100vw - 40px);*/
-        max-width: 500px;
+        max-width: 70%;
+        padding: 20px 15px;
     }
 
     .feature__section {
@@ -120,13 +119,11 @@
     }
 
     .pricing__subtitle {
-        margin-bottom: 20px;
-        font-size: 15px;
+        margin-bottom: 25px;
     }
 
     .pricing__plans {
-        grid-template-columns: 1fr;
-        row-gap: 20px;
+        column-gap: 25px;
     }
 
     .pricing-plan__header {
@@ -139,10 +136,6 @@
 
     .pricing-plan__price {
         font-size: 25px;
-    }
-
-    .pricing-plan__price span {
-        font-size: 18px;
     }
 
     .pricing-plan__button {
@@ -158,7 +151,7 @@
     }
 
     footer {
-        padding: 20px;
+        padding: 25px 50px;
     }
 
     .footer-about__title {
@@ -173,12 +166,12 @@
         flex-direction: column;
     }
 
-    .footer-links {
-        flex-direction: column;
-    }
-
     .footer-links-group {
         margin-top: 20px;
+        margin-left: 50px;
+    }
+
+    .footer-links-group:first-child {
         margin-left: 0;
     }
 
