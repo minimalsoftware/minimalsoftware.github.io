@@ -1,0 +1,3 @@
+[submodule "apps/weather-plus-by-minimal-software"]
+	path = apps/weather-plus-by-minimal-software
+	url = git@github.com:minimalsoftware/Weather-Plus-by-Minimal-Software-Web.git
